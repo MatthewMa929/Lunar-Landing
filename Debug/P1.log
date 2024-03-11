@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Matth\source\repos\Project 3 Lunar Lander\Entity.h(78,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matth\source\repos\Project 3 Lunar Lander\Entity.h(79,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Matth\source\repos\Project 3 Lunar Lander\main.cpp(316,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matth\source\repos\Project 3 Lunar Lander\main.cpp(384,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Matth\source\repos\Project 3 Lunar Lander\main.cpp(389,68): warning C4305: 'argument': truncation from 'double' to 'float'
+  P1.vcxproj -> C:\Users\Matth\source\repos\Project 3 Lunar Lander\Debug\P1.exe
